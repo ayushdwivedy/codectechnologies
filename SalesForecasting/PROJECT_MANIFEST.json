@@ -1,0 +1,22 @@
+{
+  "project": "Sales Forecasting",
+  "dataset_rows": 84,
+  "date_range": [
+    "2019-01-01",
+    "2025-12-01"
+  ],
+  "generated_files": [
+    "PROJECT_REPORT.md",
+    "README.md",
+    "data/sales_data.csv",
+    "notebooks/sales_forecasting.ipynb",
+    "outputs/actual_vs_forecast.png",
+    "outputs/future_forecast.png",
+    "outputs/future_sales_forecast.csv",
+    "outputs/historical_sales.png",
+    "outputs/seasonality.png",
+    "outputs/test_forecast.csv",
+    "requirements.txt",
+    "src/forecast.py"
+  ]
+}
